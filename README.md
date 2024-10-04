@@ -1,0 +1,1 @@
+geist colors in tailwind
